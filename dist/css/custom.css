@@ -1,0 +1,61 @@
+
+
+.main-header a {
+  color: #fff;
+}
+
+.layout-fixed .main-sidebar {
+  border-radius: 0;
+}
+
+.brand-link span, .user-panel .info a {color: #212529;}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #8d8d8d;
+}
+
+.wrapper .content-wrapper {
+  background: #f8f9fa !important; 
+}
+
+.col-xl-3 .small-box h3, .col-lg-3 .small-box h3, .col-md-3 .small-box h3 {
+  font-size: 20px;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  background: #fafafa;
+  border-radius: 12px;
+}
+
+.nav-pills .nav-link:not(.active):hover {
+  background: #fafafa;
+  color: #8d8d8d;
+  transition: .5s;
+}
+
+#world-map svg path {
+  fill: #00b4d8;
+  stroke: #fff;
+}
+
+.todo-list > li .tools {
+  color: #ff4d6d;
+}
+
+.bg-blue-2 {
+  background: #00b4d8;
+}
+
+.icheck-primary > input:first-child:checked + label::before, .icheck-primary > input:first-child:checked + input[type="hidden"] + label::before {
+  background: #00b4d8;
+  border-color: #00b4d8;
+}
+
+.dropdown-item {
+  color: #212529 !important;
+}
+
+.main-footer {
+  background: #f7f8f9;
+  border-top: unset;
+}
